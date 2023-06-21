@@ -1,4 +1,4 @@
-//[![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv#:~:text=See%20more%20about%20%23rolly%20rocket)](https://anushkaa_ambuj.io)
+<!--[![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv#:~:text=See%20more%20about%20%23rolly%20rocket)](https://anushkaa_ambuj.io)-->
 <h1 align="center">Hi 👋, I'm Anushkaa Ambuj</h1>
 <h3 align="center">AI-ML Developer | Frontend Developer</h3>
 <img
