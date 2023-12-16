@@ -18,9 +18,6 @@
 -->
 </p>
 
-[comment]: # (GitHub Tropies)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anushkaa-ambuj" alt="anushkaa-ambuj" /></a> </p>
-
 [comment]: # (Contents)
 - 👨‍💻 I’m currently working on [designing a unified evaluation framework for evaluating performance of LLMs on Tabular Datasets @IBM Research](link)
 
@@ -95,8 +92,11 @@
 
 
 [comment]: # (Stats)
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushkaa-ambuj&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="anushkaa-ambuj" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anushkaa-ambuj&show_icons=true&theme=cobalt&locale=en" alt="anushkaa-ambuj" />
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushkaa-ambuj&show_icons=true&theme=cobalt&locale=en" alt="anushkaa-ambuj" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anushkaa-ambuj&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="anushkaa-ambuj" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushkaa-ambuj&theme=default" alt="anushkaa-ambuj" /></p>
+
+
