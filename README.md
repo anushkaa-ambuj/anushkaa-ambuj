@@ -1,5 +1,5 @@
 [comment]: # (Profile Banner Gif)
-
+![banner](https://github.com/anushkaa-ambuj/anushkaa-ambuj/blob/main/banner_git.gif)
 
 [comment]: # (Profile Views)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=anushkaa-ambuj&label=Profile%20views&color=0e75b6&style=flat" alt="anushkaa-ambuj" /> </p>
