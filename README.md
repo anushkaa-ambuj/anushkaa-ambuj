@@ -1,5 +1,8 @@
 [comment]: # (Profile Banner Gif)
-![banner](https://github.com/anushkaa-ambuj/anushkaa-ambuj/blob/main/banner_git.gif)
+<!-- ![banner](https://github.com/anushkaa-ambuj/anushkaa-ambuj/blob/main/banner_git.gif) -->
+
+<img src="https://github.com/anushkaa-ambuj/anushkaa-ambuj/blob/main/anu_banner.gif" alt="banner" width="1024" height="300">
+
 
 [comment]: # (Profile Views)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=anushkaa-ambuj&label=Profile%20views&color=0e75b6&style=flat" alt="anushkaa-ambuj" /> </p>
