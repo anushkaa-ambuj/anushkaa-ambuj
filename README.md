@@ -1,15 +1,12 @@
 [comment]: # (Profile Banner Gif)
-<!-- ![banner](https://github.com/anushkaa-ambuj/anushkaa-ambuj/blob/main/banner_git.gif) -->
-
-<img src="https://github.com/anushkaa-ambuj/anushkaa-ambuj/blob/main/anu_banner.gif" alt="banner" width="1024" height="300">
-
+<img src="https://github.com/anushkaa-ambuj/anushkaa-ambuj/blob/main/anu_banner.gif" alt="banner" width="1024" height="250">
 
 [comment]: # (Profile Views)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=anushkaa-ambuj&label=Profile%20views&color=0e75b6&style=flat" alt="anushkaa-ambuj" /> </p>
 
 [comment]: # (User Header)
 <h1 align="center">Hi 👋, I'm Anushkaa Ambuj</h1>
-<h3 align="center">Pre-Final year Student @IITJ | AI-ML Developer | Frontend Developer</h3>
+<h3 align="center">Pre-Final year Student @IITJ | Computer Science | AI | Engineering Science| AI-ML Developer | Frontend Developer</h3>
 
 [comment]: # (Profile Handles)
 <p align="center">
@@ -24,7 +21,7 @@
 -->
 </p>
 
-[comment]: # (Contents)
+[comment]: # (Contents)  
 - 👨‍💻 I’m currently working on [designing a unified evaluation framework for evaluating performance of LLMs on Tabular Datasets @IBM Research](link)
 
 - 💬 I’m currently working on [designing a computationally light-weight software for Chest X-Ray Diagnosis @IITJ](link)
@@ -101,7 +98,6 @@
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
-
 
 [comment]: # (Stats)
 <p align="center">
