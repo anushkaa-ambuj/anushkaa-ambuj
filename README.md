@@ -22,11 +22,12 @@
 </p>
 
 [comment]: # (Contents)  
-- 👨‍💻 I’m currently working on [designing a unified evaluation framework for evaluating performance of LLMs on Tabular Datasets @IBM Research](link)
 
 - 💬 I’m currently working on [designing a computationally light-weight software for Chest X-Ray Diagnosis @IITJ](link)
 
 <!---
+- 👨‍💻 I’m currently working on [designing a unified evaluation framework for evaluating performance of LLMs on Tabular Datasets @IBM Research](link)
+
 - 🔭 I’m currently working on [Project 3](link)
 
 - 🌱 I’m currently learning **learn**
