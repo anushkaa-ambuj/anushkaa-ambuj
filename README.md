@@ -6,7 +6,7 @@
 
 [comment]: # (User Header)
 <h1 align="center">Hi 👋, I'm Anushkaa Ambuj</h1>
-<h3 align="center">Pre-Final year Student @IITJ | Computer Science | AI | Engineering Science| AI-ML Developer | Frontend Developer</h3>
+<h3 align="center">Final year Student @IITJ | Computer Science | AI | Engineering Science| AI-ML Developer | Frontend Developer</h3>
 
 [comment]: # (Profile Handles)
 <p align="center">
