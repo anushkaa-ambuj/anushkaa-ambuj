@@ -6,7 +6,7 @@
 
 [comment]: # (User Header)
 <h1 align="center">Hi 👋, I'm Anushkaa Ambuj</h1>
-<h3 align="center">Final year Student @IITJ | Computer Science | AI | Engineering Science| AI-ML Developer | Frontend Developer</h3>
+<!-- <h3 align="center">Final year Student @IITJ | Computer Science | AI | Engineering Science| AI-ML Developer | Frontend Developer</h3> -->
 
 [comment]: # (Profile Handles)
 <p align="center">
@@ -21,11 +21,11 @@
 -->
 </p>
 
+<!---
 [comment]: # (Contents)  
 
 - 💬 I’m currently working on [designing a computationally light-weight software for Chest X-Ray Diagnosis @IITJ](link)
 
-<!---
 - 👨‍💻 I’m currently working on [designing a unified evaluation framework for evaluating performance of LLMs on Tabular Datasets @IBM Research](link)
 
 - 🔭 I’m currently working on [Project 3](link)
