@@ -1,0 +1,38 @@
+name: GitHub Readme Badges
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Checkout repo
+      - uses: actions/checkout@v3
+
+      # Step 2: Fetch Kaggle certificates (example)
+      - name: Fetch Kaggle Certificates
+        env:
+          KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+          KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
+        run: |
+          pip install kaggle requests
+          python scripts/fetch_kaggle_badges.py
+
+      # Step 3: Fetch Google Cloud Skill Badges
+      - name: Fetch Google Cloud Skill Badges
+        env:
+          GCP_TOKEN: ${{ secrets.GCP_TOKEN }}
+        run: |
+          pip install requests
+          python scripts/fetch_gcp_badges.py
+
+      # Step 4: Commit and push updated README
+      - name: Commit updated README
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update badges"
+          git push
