@@ -21,7 +21,9 @@
 
 ### 📺 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Create Multiple VMs, Setup VM-to-VM Communication, and Host One Microservice-Based Application](https://ytcards.demolab.com/?id=_Iz2R3jAg6A&title=Create+Multiple+VMs%2C+Setup+VM-to-VM+Communication%2C+and+Host+One+Microservice-Based+Application&lang=en&timestamp=1739654101&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1913 "Create Multiple VMs, Setup VM-to-VM Communication, and Host One Microservice-Based Application")](https://www.youtube.com/watch?v=_Iz2R3jAg6A)
+[![REMify | A Smart IoT and ML-Based System for Non-Invasive Sleep Stage Monitoring](https://ytcards.demolab.com/?id=fr9ZFEEba1I&title=REMify+%7C+A+Smart+IoT+and+ML-Based+System+for+Non-Invasive+Sleep+Stage+Monitoring&lang=en&timestamp=1734536199&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=542 "REMify | A Smart IoT and ML-Based System for Non-Invasive Sleep Stage Monitoring")](https://www.youtube.com/watch?v=fr9ZFEEba1I)
+[![ChatDB | Enhancing RDBMS Querying with Natural Language Processing using Large Language Models](https://ytcards.demolab.com/?id=i3BFJhQx4WQ&title=ChatDB+%7C+Enhancing+RDBMS+Querying+with+Natural+Language+Processing+using+Large+Language+Models&lang=en&timestamp=1734534397&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=803 "ChatDB | Enhancing RDBMS Querying with Natural Language Processing using Large Language Models")](https://www.youtube.com/watch?v=i3BFJhQx4WQ)
 <!-- END YOUTUBE-CARDS -->
 
 # 📊 GitHub Stats:
